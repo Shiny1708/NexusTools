@@ -1,4 +1,4 @@
-package org.example;
+package com.oxaion.tools.nexus;
 
 public class Main {
     public static void main(String[] args) {
